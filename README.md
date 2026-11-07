@@ -1,0 +1,1 @@
+# frudalia-pack
